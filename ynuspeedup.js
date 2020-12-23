@@ -5,7 +5,7 @@
 // @description  加速视频，针对云南开放大学
 // @author       witchsnk
 // @match        *://teach.ynou.edu.cn/play/*
-// @updateURL    https://github.com/witchsnk/tampermonkeyscript/ynuspeedup.js
+// @updateURL    https://github.com/witchsnk/tampermonkeyscript/blob/main/ynuspeedup.js
 // @require      https://cdn.staticfile.org/jquery/3.4.1/jquery.min.js
 // @require      https://cdn.bootcss.com/jqueryui/1.12.1/jquery-ui.min.js
 // @run-at       document-end
