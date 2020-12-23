@@ -1,2 +1,4 @@
-# tampermonkeyscript
-tampermonkey script
+# 油猴脚本学习
+
+
+>   刚开始学习油猴脚本编写，写了个比较简单的脚本,后面会慢慢更新成用hook方式进行脚本工作，慢慢来
